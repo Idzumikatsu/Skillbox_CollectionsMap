@@ -15,7 +15,7 @@
     <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
     <checkstyle-maven-plugin.version>3.3.0</checkstyle-maven-plugin.version>
     <junit.platform.version>5.8.0-M1</junit.platform.version>
-    <puppycrawl.version>8.34</puppycrawl.version>
+    <puppycrawl.version>8.45.1</puppycrawl.version>
     <maven-site-plugin.version>3.7.1</maven-site-plugin.version>
     <checkstyle.config.location>${basedir}/checkstyle.xml</checkstyle.config.location>
     <linkXRef>false</linkXRef>
